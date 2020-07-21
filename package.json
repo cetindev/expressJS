@@ -1,0 +1,19 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "My first expressJs applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cihatdev/expressJS.git"
+  },
+  "author": "Cihat Salik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cihatdev/expressJS/issues"
+  },
+  "homepage": "https://github.com/cihatdev/expressJS#readme"
+}
